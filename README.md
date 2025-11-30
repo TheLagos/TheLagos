@@ -5,7 +5,7 @@
     <td valign="top" width="55%">
       <h3>📝 About me:</h3>
       <p>
-        `std::int my_age = 36 / 2;`
+        <code>std::int my_age = 18;</code> <br />
         I'm a <b>2nd year Computer Science student</b> at <b>Ivan Franko National University of Lviv</b>.
       </p>
       <h3>🎯 GitHub questions:</h3>
