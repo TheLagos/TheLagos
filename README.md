@@ -18,7 +18,6 @@ I'm a **2nd year Computer Science student** at **Ivan Franko National University
         <img src="[https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)" alt="MySQL" />
         <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" alt="Linux" />
       </p>
-
       <h3>📫 Connect with me</h3>
       <p>
         <a href="[https://www.linkedin.com/in/bohuslav-mazuryk-194720378/](https://www.linkedin.com/in/bohuslav-mazuryk-194720378/)">
