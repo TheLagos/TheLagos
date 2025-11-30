@@ -1,14 +1,18 @@
 # Hi there! `std::string my_name = "Bohuslav";` 👋
+
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <h3>🛠️ About me</h3>
+    <td valign="top" width="55%">
+      <h3>👤 About me</h3>
       <p>
-        I'm a **2nd year Computer Science student** at **Ivan Franko National University of Lviv**.
-        - 🔭 I’m currently working on my **Course Project**;
-        - 🌱 I’m currently learning **C++** and **Qt**, to have more *pluses* in my life;
-        - 💬 Ask me about **Space**;
+        I'm a <b>2nd year Computer Science student</b> at <b>Ivan Franko National University of Lviv</b>.
       </p>
+      <h3>🚀 Current Focus</h3>
+      <ul>
+        <li>🔭 Working on my <b>Course Project</b></li>
+        <li>🌱 Learning <b>C++</b> and <b>Qt</b> to have more <i>pluses</i> in my life</li>
+        <li>💬 Ask me about <b>Space</b></li>
+      </ul>
       <h3>🛠️ Languages and Tools</h3>
       <p>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -28,11 +32,11 @@
         </a>
       </p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="45%">
       <h3>🎧 Vibe right now</h3>
       <div align="center">
         <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mv72ospepqvoayu6c7z6ijwac4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false" width="100%" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mv72ospepqvoayu6c7z6ijwac4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false" width="320px" />
         </a>
       </div>
     </td>
