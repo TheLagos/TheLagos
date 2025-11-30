@@ -1,14 +1,14 @@
 # Hi there! `std::string my_name = "Bohuslav";` 👋
-
-I'm a **2nd year Computer Science student** at **Ivan Franko National University of Lviv**.
-
-- 🔭 I’m currently working on my **Course Project**;
-- 🌱 I’m currently learning **C++** and **Qt**, to have more *pluses* in my life;
-- 💬 Ask me about **Space**;
-
 <table>
   <tr>
     <td valign="top" width="50%">
+      <h3>🛠️ About me</h3>
+      <p>
+        I'm a **2nd year Computer Science student** at **Ivan Franko National University of Lviv**.
+        - 🔭 I’m currently working on my **Course Project**;
+        - 🌱 I’m currently learning **C++** and **Qt**, to have more *pluses* in my life;
+        - 💬 Ask me about **Space**;
+      </p>
       <h3>🛠️ Languages and Tools</h3>
       <p>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
