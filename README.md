@@ -3,11 +3,11 @@
 <table>
   <tr>
     <td valign="top" width="55%">
-      <h3>👤 About me:</h3>
+      <h3>📝 About me:</h3>
       <p>
         I'm a <b>2nd year Computer Science student</b> at <b>Ivan Franko National University of Lviv</b>.
       </p>
-      <h3>🚀 GitHub questions:</h3>
+      <h3>🎯 GitHub questions:</h3>
       <ul>
         <li>🔭 Working on my <b>Course Project</b></li>
         <li>🌱 Learning <b>C++</b> and <b>Qt</b> to have more <i>pluses</i> in my life</li>
@@ -33,7 +33,7 @@
       </p>
     </td>
     <td valign="top" width="45%">
-      <h3>🎧 Listening to right now:</h3>
+      <h3 align="center">🎧 Listening to right now:</h3>
       <div align="center">
         <a href="https://github.com/kittinan/spotify-github-profile">
           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mv72ospepqvoayu6c7z6ijwac4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false" width="320px" />
