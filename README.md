@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there! 'std::string my_name = "Bohuslav";' 👋
 
-<!--
-**TheLagos/TheLagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **2nd year bachelor Computer Science student** at **Ivan Franko National University of Lviv**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my **Course Project**;
+- 🌱 I’m currently learning **C++** and **Qt**, to have more *pluses* in my life;
+- 💬 Ask me about **Space**;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 📫 Connect with me
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([https://www.linkedin.com/in/твоє-посилання/](https://www.linkedin.com/in/bohuslav-mazuryk-194720378/))
+[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/@b_mazuryk)
+<br />
+
+### 🎧 What i'm listening to right now 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mv72ospepqvoayu6c7z6ijwac4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false">
+  </a>
+</p>
