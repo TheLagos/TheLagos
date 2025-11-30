@@ -17,8 +17,8 @@ I'm **2nd year bachelor Computer Science student** at **Ivan Franko National Uni
 </p>
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/твоє-посилання/)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/твій_нік)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/твоє-посилання/](https://www.linkedin.com/in/bohuslav-mazuryk-194720378/))
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/b_mazuryk)
 
 ### 🎧 What I'm listening to right now
 <a href="https://github.com/kittinan/spotify-github-profile">
